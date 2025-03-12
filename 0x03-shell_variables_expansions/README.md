@@ -28,3 +28,5 @@ Write a script that converts a number from base 2 to base 10.
 This is a script that prints all possible combinations of two letters, except oo
 ## 13-print_float
 This is a script that prints a number in the environment variable NUM with two decimal places, followed by a new line.
+## 100-decimal_to_hexadecimal
+This is a script that converts a number from base 10 stored in the environment variable DECIMAL to base 16, followed by a new line.
