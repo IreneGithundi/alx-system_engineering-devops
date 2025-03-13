@@ -34,3 +34,5 @@ This is a script that converts a number from base 10 stored in the environment v
 This is a script that encodes and decodes text using the rot13 encryption by assuming ASCII.
 ## 102-odd
 This is a script that prints every other line from the input, starting with the first line.
+## 103-water_and_stir
+This is a script that  adds the two numbers stored in the environment variables WATER (in base water) and STIR (in base stir) and prints the result
