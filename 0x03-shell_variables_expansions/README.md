@@ -32,3 +32,5 @@ This is a script that prints a number in the environment variable NUM with two d
 This is a script that converts a number from base 10 stored in the environment variable DECIMAL to base 16, followed by a new line.
 ## 101-rot13
 This is a script that encodes and decodes text using the rot13 encryption by assuming ASCII.
+## 102-odd
+This is a script that prints every other line from the input, starting with the first line.
